@@ -24,7 +24,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 #### checking http service
 
 ```adding 10.10.10.194 to our /etc/hosts file``` 
-first i tried to exploit login page may i found sql injection but i failed ,second i used dirsearch tool to brute force directories.
+first i tried to exploit login page may i find sql injection but i failed ,second i used dirsearch tool to brute force directories.
 
 
 ![Screenshot from 2020-11-17 20-09-37](https://user-images.githubusercontent.com/36403473/99430365-e8b08f00-2911-11eb-883f-21a6fbac1018.png)
